@@ -1,0 +1,85 @@
+.textOrange{
+	color : #FF8E0A !important;
+}
+.purple{
+	color : #673091 !important;
+}
+.red{
+	color : #ED1C24 !important;
+}
+.turquoise{
+	color : #74BDAC !important;
+}
+.grey{
+	color : #A2A2A2 !important;
+}
+.black{
+	color : #303030 !important;
+}
+.textCenter{
+	text-align: center !important;
+}
+.borderOrangeTop{
+	border-top : 3px solid #FF8E0A !important;
+}
+.borderOrangeBottom{
+	border-bottom : 3px solid #FF8E0A !important;
+}
+.rectImg{
+	background-image : url('img/Rectangle 119.png');
+}
+.floatR{
+	float: right !important;
+}
+.floatL{
+	float: left !important;
+}
+.padding5{
+	padding :5px !important;
+}
+.ellImg{
+	background-image : url('img/Ellipse 15.png');
+}
+.notification {
+  
+  color: white;
+  text-decoration: none !important;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+textarea {
+  resize: none !important;
+}
+
+.notification .badge {
+  position: absolute;
+  top: 5px;
+  right: -5px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background-color: #FF8E0A !important;
+  color: white;
+  font-weight: normal !important;
+}
+
+.btn-form{
+	background-color: #FF8E0A!important;
+	color:white !important;
+}
+.borderRight{
+	border-top-right-radius: 13px !important;
+    border-bottom-right-radius: 13px !important;
+}
+.borderLeft{
+	border-top-left-radius: 13px !important;
+    border-bottom-left-radius: 13px !important;
+}
+.fullWebKitWidth{
+	width: -webkit-fill-available !important;
+}
+.iconPadding{
+padding: 3px !important;
+}
